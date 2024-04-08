@@ -1,1 +1,1 @@
-# CS-002H-2024-
+# Problem-solving through structured computer programming of algorithms using the basics of the C++ object-oriented language. Topics include: variables, expressions, input/output (I/O), branches, looping constructs, functions, argument passing, single and double dimensional arrays, strings, file I/O, C++ vectors, software design principles, testing, and debugging techniques. CS-002H-2024-
